@@ -1,4 +1,3 @@
-```cpp
 #define BLYNK_TEMPLATE_ID "TMPL3wYROligZ"
 #define BLYNK_TEMPLATE_NAME "IOT based Smart Motor Protection System"
 #define BLYNK_AUTH_TOKEN "YOUR_NEW_BLYNK_AUTH_TOKEN"
